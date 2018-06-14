@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">TheoTown</string>
-    <string name="settings_title">Settings</string>
-    <string name="loadcity_title">Load City</string>
-    <string name="createcity_title">New City</string>
-    <string name="settings_defaults">Defaults</string>
+    <string name="settings_title">ตั้งค่า</string>
+    <string name="loadcity_title">โหลดเมือง</string>
+    <string name="createcity_title">สร้างเมืองใหม่</string>
+    <string name="settings_defaults">ค่าเริ่มต้น</string>
     <string name="settings_apply">Apply</string>
-    <string name="createcity_mapsize">Size:</string>
+    <string name="createcity_mapsize">ขนาด:</string>
     <string name="createcity_cityname">City name:</string>
     <string name="control_back">Back</string>
     <string name="createcity_start">Start</string>
